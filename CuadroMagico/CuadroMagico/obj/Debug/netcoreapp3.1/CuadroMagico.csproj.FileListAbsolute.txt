@@ -1,0 +1,16 @@
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\bin\Debug\netcoreapp3.1\CuadroMagico.exe
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\bin\Debug\netcoreapp3.1\CuadroMagico.deps.json
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\bin\Debug\netcoreapp3.1\CuadroMagico.runtimeconfig.json
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\bin\Debug\netcoreapp3.1\CuadroMagico.runtimeconfig.dev.json
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\bin\Debug\netcoreapp3.1\CuadroMagico.dll
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\bin\Debug\netcoreapp3.1\CuadroMagico.pdb
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\obj\Debug\netcoreapp3.1\CuadroMagico.csproj.AssemblyReference.cache
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\obj\Debug\netcoreapp3.1\CuadroMagico.Form1.resources
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\obj\Debug\netcoreapp3.1\CuadroMagico.csproj.GenerateResource.cache
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\obj\Debug\netcoreapp3.1\CuadroMagico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\obj\Debug\netcoreapp3.1\CuadroMagico.AssemblyInfoInputs.cache
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\obj\Debug\netcoreapp3.1\CuadroMagico.AssemblyInfo.cs
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\obj\Debug\netcoreapp3.1\CuadroMagico.csproj.CoreCompileInputs.cache
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\obj\Debug\netcoreapp3.1\CuadroMagico.dll
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\obj\Debug\netcoreapp3.1\CuadroMagico.pdb
+C:\Users\JimmyLpz\source\repos\CuadroMagico\CuadroMagico\obj\Debug\netcoreapp3.1\CuadroMagico.genruntimeconfig.cache

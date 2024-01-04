@@ -1,0 +1,16 @@
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\bin\Debug\net5.0\matrixes.exe
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\bin\Debug\net5.0\matrixes.deps.json
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\bin\Debug\net5.0\matrixes.runtimeconfig.json
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\bin\Debug\net5.0\matrixes.runtimeconfig.dev.json
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\bin\Debug\net5.0\matrixes.dll
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\bin\Debug\net5.0\ref\matrixes.dll
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\bin\Debug\net5.0\matrixes.pdb
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\obj\Debug\net5.0\matrixes.csproj.AssemblyReference.cache
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\obj\Debug\net5.0\matrixes.GeneratedMSBuildEditorConfig.editorconfig
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\obj\Debug\net5.0\matrixes.AssemblyInfoInputs.cache
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\obj\Debug\net5.0\matrixes.AssemblyInfo.cs
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\obj\Debug\net5.0\matrixes.csproj.CoreCompileInputs.cache
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\obj\Debug\net5.0\matrixes.dll
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\obj\Debug\net5.0\ref\matrixes.dll
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\obj\Debug\net5.0\matrixes.pdb
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\Matrixes\obj\Debug\net5.0\matrixes.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\bin\Debug\net5.0-windows\forms.exe
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\bin\Debug\net5.0-windows\forms.deps.json
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\bin\Debug\net5.0-windows\forms.runtimeconfig.json
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\bin\Debug\net5.0-windows\forms.runtimeconfig.dev.json
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\bin\Debug\net5.0-windows\forms.dll
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\bin\Debug\net5.0-windows\ref\forms.dll
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\bin\Debug\net5.0-windows\forms.pdb
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\obj\Debug\net5.0-windows\forms.csproj.AssemblyReference.cache
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\obj\Debug\net5.0-windows\forms.GeneratedMSBuildEditorConfig.editorconfig
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\obj\Debug\net5.0-windows\forms.AssemblyInfoInputs.cache
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\obj\Debug\net5.0-windows\forms.AssemblyInfo.cs
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\obj\Debug\net5.0-windows\forms.csproj.CoreCompileInputs.cache
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\obj\Debug\net5.0-windows\forms.dll
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\obj\Debug\net5.0-windows\ref\forms.dll
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\obj\Debug\net5.0-windows\forms.pdb
+D:\universidad\8voSemestreUni\Desarrollo.Net\Parcial1\C#\forms\obj\Debug\net5.0-windows\forms.genruntimeconfig.cache

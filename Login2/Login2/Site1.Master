@@ -1,0 +1,77 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Login2.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet"/>
+    <title>AplicacionDeRegistro</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body class="m-0 row justify-content-center p-5 bg-info mx-auto" >
+    <form id="form1" runat="server">
+        <div class="col-auto bg-white p-5 border-dark rounded-lg" >
+            <table class="table mx-auto d-block">
+                <tr >
+                    <td></td>
+                    <td >
+                        <label class="display-4 text-center">Droplearn</label>
+                    </td>
+                    <td></td>
+                </tr>
+                <tr class="cuerpo">
+                    <td></td>
+                    <td colspan="2">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder4" runat="server">
+                            <label class="text-primary">Usuario</label><br />
+                        </asp:ContentPlaceHolder>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+                            <asp:TextBox ID="TextBox1" runat="server" OnTextChanged="TextBox1_TextChanged"></asp:TextBox>
+                            <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Usuario es requerido" ControlToValidate="TextBox1" ForeColor="Red"></asp:RequiredFieldValidator>
+                        </asp:ContentPlaceHolder>
+                        <br />
+                        <br />
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder5" runat="server">
+                            <label class="text-primary">Contraseña</label><br />
+                        </asp:ContentPlaceHolder>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder6" runat="server">
+                            <asp:TextBox ID="TextBox2" runat="server" OnTextChanged="TextBox2_TextChanged" TextMode="Password"></asp:TextBox>
+                            <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="TextBox2" ErrorMessage="Contraseña es requerido" ForeColor="Red"></asp:RequiredFieldValidator>
+                        </asp:ContentPlaceHolder>
+                        <br />
+                        <br />
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            <asp:Button ID="Button1" runat="server" Text="Enviar" OnClick="Button1_Click" />
+                            <br />
+                            <a  href="Registro.aspx">No se ha registrado?</a>
+                        </asp:ContentPlaceHolder>
+
+                    </td>
+
+                    <td>
+                        <br />
+                    </td>
+
+                </tr>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+
+
+                    <tr class="pie">
+                        <td></td>
+                        <td class="text-danger">
+                            <label>#jaime</label>
+                            <label>&nbsp;&nbsp; #jaime@hotmail.com</label>
+                            <label>&nbsp;&nbsp; #TECMM</label>
+                        </td>
+                        <td></td>
+                    </tr>
+                </asp:ContentPlaceHolder>
+            </table>
+
+        </div>
+    </form>
+</body>
+</html>

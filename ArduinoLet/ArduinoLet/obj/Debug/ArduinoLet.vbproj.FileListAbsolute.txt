@@ -1,0 +1,5 @@
+C:\Users\JimmyLpz\source\repos\ArduinoLet\ArduinoLet\obj\Debug\ArduinoLet.vbprojAssemblyReference.cache
+C:\Users\JimmyLpz\source\repos\ArduinoLet\ArduinoLet\obj\Debug\ArduinoLet.Form1.resources
+C:\Users\JimmyLpz\source\repos\ArduinoLet\ArduinoLet\obj\Debug\ArduinoLet.Resources.resources
+C:\Users\JimmyLpz\source\repos\ArduinoLet\ArduinoLet\obj\Debug\ArduinoLet.vbproj.GenerateResource.cache
+C:\Users\JimmyLpz\source\repos\ArduinoLet\ArduinoLet\obj\Debug\ArduinoLet.vbproj.CoreCompileInputs.cache
